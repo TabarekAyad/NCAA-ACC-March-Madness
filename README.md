@@ -10,5 +10,5 @@ Data/operation abstraction design: <br/>
 Clean data from my professor [Chase Romano](https://www.linkedin.com/in/chase-romano-0aa4046b/) <br/>
 and his Teaching Assistant [Joseph Burns](https://www.linkedin.com/in/joeburns91/)
 
-Future work:
+Future work: <br/>
 More visualizations to filter per team and season, add a visualization to show what activities contributed to the total score, and what features correlated to wins.
